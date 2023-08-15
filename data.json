@@ -1,22 +1,70 @@
 [
   {
-    "label": "Category A",
-    "value": 25
+    "city": "London",
+    "rainfall": [
+      { "month": "Jan", "value": 59 },
+      { "month": "Fev", "value": 50 },
+      { "month": "Mar", "value": 47 },
+      { "month": "Apr", "value": 54 },
+      { "month": "May", "value": 57 },
+      { "month": "June", "value": 60 },
+      { "month": "July", "value": 59 },
+      { "month": "Aug", "value": 65 },
+      { "month": "Sept", "value": 51 },
+      { "month": "Oct", "value": 60 },
+      { "month": "Nov", "value": 67 },
+      { "month": "Dec", "value": 61 }
+    ]
   },
   {
-    "label": "Category B",
-    "value": 45
+    "city": "Paris",
+    "rainfall": [
+      { "month": "Jan", "value": 57 },
+      { "month": "Fev", "value": 52 },
+      { "month": "Mar", "value": 53 },
+      { "month": "Apr", "value": 56 },
+      { "month": "May", "value": 69 },
+      { "month": "June", "value": 63 },
+      { "month": "July", "value": 60 },
+      { "month": "Aug", "value": 60 },
+      { "month": "Sept", "value": 51 },
+      { "month": "Oct", "value": 65 },
+      { "month": "Nov", "value": 64 },
+      { "month": "Dec", "value": 70 }
+    ]
   },
   {
-    "label": "Category C",
-    "value": 60
+    "city": "NewYork",
+    "rainfall": [
+      { "month": "Jan", "value": 57 },
+      { "month": "Fev", "value": 52 },
+      { "month": "Mar", "value": 53 },
+      { "month": "Apr", "value": 56 },
+      { "month": "May", "value": 69 },
+      { "month": "June", "value": 63 },
+      { "month": "July", "value": 60 },
+      { "month": "Aug", "value": 60 },
+      { "month": "Sept", "value": 51 },
+      { "month": "Oct", "value": 65 },
+      { "month": "Nov", "value": 64 },
+      { "month": "Dec", "value": 70 }
+    ]
   },
   {
-    "label": "Category D",
-    "value": 30
+    "city": "Seol",
+    "rainfall": [
+      { "month": "Jan", "value": 57 },
+      { "month": "Fev", "value": 52 },
+      { "month": "Mar", "value": 53 },
+      { "month": "Apr", "value": 56 },
+      { "month": "May", "value": 69 },
+      { "month": "June", "value": 63 },
+      { "month": "July", "value": 60 },
+      { "month": "Aug", "value": 60 },
+      { "month": "Sept", "value": 51 },
+      { "month": "Oct", "value": 65 },
+      { "month": "Nov", "value": 64 },
+      { "month": "Dec", "value": 70 }
+    ]
   },
-  {
-    "label": "Category E",
-    "value": 75
-  }
 ]

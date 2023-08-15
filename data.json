@@ -1,6 +1,6 @@
 [
   {
-    "city": "London",
+    "city": "london",
     "rainfall": [
       { "month": "Jan", "value": 59 },
       { "month": "Fev", "value": 50 },
@@ -17,7 +17,7 @@
     ]
   },
   {
-    "city": "Paris",
+    "city": "paris",
     "rainfall": [
       { "month": "Jan", "value": 57 },
       { "month": "Fev", "value": 52 },
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "city": "NewYork",
+    "city": "newYork",
     "rainfall": [
       { "month": "Jan", "value": 57 },
       { "month": "Fev", "value": 52 },
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "city": "Seol",
+    "city": "seoul",
     "rainfall": [
       { "month": "Jan", "value": 57 },
       { "month": "Fev", "value": 52 },
